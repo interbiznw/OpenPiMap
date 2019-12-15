@@ -1,7 +1,7 @@
 import csv
 import geoip2.database
 import folium
-from folium.element import IFrame
+from folium import IFrame
 import os
 import time
 import shodan
